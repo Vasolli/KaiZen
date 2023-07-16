@@ -41,7 +41,7 @@
 }
 
 #input1{
-    margin-left:340px;
+    margin-left: 43%;
     font-size: 20px;
     padding: 10px;
     border-radius: 25px;
@@ -56,15 +56,15 @@
     height: 450px;
     position: relative;
     top: 0px;
-    left: 225px;
+    left: 8%;
 
 }
 
 .icons{
 
 display: inline-block;
-margin-left: 545px;
-margin-top: 100px;
+margin-left: 40%;
+margin-top: -20%;
 
 }
 
@@ -74,7 +74,7 @@ margin-top: 100px;
 
 .fa-brands.fa-instagram.fa-2x{
     color: white;
-    margin-right: 100px;
+    margin-right: 0%;
 }
 .fa-brands.fa-instagram.fa-2x:hover{
     color: rgb(190, 26, 26);

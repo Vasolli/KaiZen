@@ -1,17 +1,16 @@
 .Clothes{
     display: inline-block;
-    margin-left: 200px;
+    margin-left: 12%;
 }
 
 .explain{
     float: right;
     text-align: left;
-    margin-right: 200px;
-
+    margin-right: 10%;
 }
 
 #img1 {
-    margin-left:-110px; 
+    margin-left: -12%; 
     margin-right: 80px;
     border-radius: 1px solid;
 } 
@@ -59,7 +58,7 @@ header {
 }
 
 #img {
-    margin-left: 570px;
+    margin-left: 43%;
 } 
 
 .color{

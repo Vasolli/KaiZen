@@ -1,5 +1,5 @@
 #img {
-    margin-left: 570px;
+    margin-left: 43%;
 } 
 
 
@@ -11,7 +11,6 @@ header {
     overflow: hidden;
     background-color: rgb(255, 255, 255);
     text-align: center;
-    display: inline-block;
 }
 
 .topnav a {
@@ -37,33 +36,26 @@ header {
 .topnav input[type=text] {
     padding: 6px;
     border: 1px solid;
-    width: 500px;
+    width: 450px;
     margin-top: 8px;
-    margin-left: 50px;
+    margin-left: 28%;
     font-size: 17px;
     display: inline-block;
 }
 
-#h12{
-    margin-left: 30px;
-    font-style: italic;
-    font-family: Dancing Script;
-    font-size: 2em;
-    color: white;
-    display: inline-block;
-}
 
 #box1{
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
     background-color: black;
     color: rgb(0, 0, 0);
 }
 
 #img3{
     background-color: black;
-    margin-left: 360px;
-    margin-top: 30px;
+    margin-left: 25%;
+    margin-top: 5%;
+    margin-bottom: 5%;
     display: inline-block;
 
 }
@@ -97,13 +89,13 @@ header {
 
 #box2{
     background-color: #8b0e16; 
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
 }
 
 .White-T-origins{
     display: inline-block;
-    margin-left: 200px;
+    margin-left: 5%;
 }
 .White-T-origins:hover{
     box-shadow: 5px 7px 2px;
@@ -112,7 +104,7 @@ header {
 
 .Black-T-origins{
     display: inline-block;
-    margin-left: 260px;
+    margin-left: 5%;
 }
 .Black-T-origins:hover{
     box-shadow: 5px 7px 2px;
@@ -127,8 +119,8 @@ header {
 
 .icons a{
     text-decoration: none;
-    margin-left: 480px;
-    margin-right: -250px;
+    margin-left: 40%;
+    margin-right: -25%;
 }
 
 .fa-brands.fa-instagram.fa-2x{
