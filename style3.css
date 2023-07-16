@@ -96,3 +96,32 @@ h3{
     margin-left: 50px;
     margin-bottom: 400px;
 }
+
+.button{
+    font-size: 1em;
+    margin-right: 15px;
+    background-color: white;
+    color: black;
+    height: 35px;
+    width: 35px;
+}
+
+.button:hover{
+    font-size: 1.2em;
+    box-shadow: 5px 5px 3px;
+    background-color: #b80b17;
+    color: white;
+}
+
+.button:active{
+    background-color: #b80b17;
+}
+
+#h11{
+    font-family: Dancing Script;
+    text-decoration: dotted;
+}
+
+#h21{
+    text-decoration: underline;
+}
