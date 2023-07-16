@@ -1,0 +1,98 @@
+.Clothes{
+    display: inline-block;
+    margin-left: 200px;
+}
+
+.explain{
+    float: right;
+    text-align: left;
+    margin-right: 200px;
+
+}
+
+#img1 {
+    margin-left:-110px; 
+    margin-right: 80px;
+    border-radius: 1px solid;
+} 
+
+
+header {
+    background-color: white;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    display: inline-block;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #b80b17;
+    color: rgb(255, 255, 255);
+}
+
+.topnav a.active {
+    background-color: #b80b17;
+    color: white;
+}
+
+.topnav input[type=text] {
+    padding: 6px;
+    border: 1px solid;
+    width: 500px;
+    margin-top: 8px;
+    margin-left: 50px;
+    font-size: 17px;
+    display: inline-block;
+}
+
+#img {
+    margin-left: 570px;
+} 
+
+.color{
+    font-size: 20px;
+    background-color: black;
+    color: white;
+}
+
+.size{
+    font-size: 20px;
+    background-color: black;
+    color:white; 
+    margin-right: 20px;
+}
+
+main{
+    background-color: white;
+}
+
+p{
+    color:black;
+}
+
+h3{
+    color: black;
+}
+
+.MultipleC{
+    width:50px;
+    display: inline-block;
+}
+
+#img2{
+    margin-left: 50px;
+    margin-bottom: 400px;
+}

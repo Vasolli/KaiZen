@@ -1,0 +1,153 @@
+#img {
+    margin-left: 570px;
+} 
+
+
+header {
+    background-color: white;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    display: inline-block;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #b80b17;
+    color: rgb(255, 255, 255);
+}
+
+.topnav a.active {
+    background-color: #b80b17;
+    color: white;
+}
+
+.topnav input[type=text] {
+    padding: 6px;
+    border: 1px solid;
+    width: 500px;
+    margin-top: 8px;
+    margin-left: 50px;
+    font-size: 17px;
+    display: inline-block;
+}
+
+#h12{
+    margin-left: 30px;
+    font-style: italic;
+    font-family: Dancing Script;
+    font-size: 2em;
+    color: white;
+    display: inline-block;
+}
+
+#box1{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: black;
+    color: rgb(0, 0, 0);
+}
+
+#img3{
+    background-color: black;
+    margin-left: 360px;
+    margin-top: 30px;
+    display: inline-block;
+
+}
+
+#img5{
+    margin-left: 580px;
+}
+
+#img4{
+    border-radius: px;
+}
+
+.Origins-title{
+    text-decoration:underline;
+    text-align: left;
+    color: white;
+    text-decoration: none;
+}
+
+.Info-origins{
+    text-align: left;
+    margin-top: 0px;
+    color: white;
+}
+
+.Price-origins{
+    text-align: left;
+    color: white;
+}
+
+#box2{
+    background-color: #8b0e16; 
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.White-T-origins{
+    display: inline-block;
+    margin-right: 85px;
+    margin-left: 135px;
+}
+.White-T-origins:hover{
+    box-shadow: 5px 7px 2px;
+    background-color: #7b0c13; 
+}
+
+.Black-T-origins{
+    display: inline-block;
+    margin-right: 85px;
+}
+.Black-T-origins:hover{
+    box-shadow: 5px 7px 2px;
+    background-color: #7b0c13; 
+}
+
+#h13{
+    text-align: center;
+    font-family: Dancing Script;
+    font-style: oblique;
+}
+
+.icons a{
+    text-decoration: none;
+    margin-left: 480px;
+    margin-right: -250px;
+}
+
+.fa-brands.fa-instagram.fa-2x{
+    color: black;
+}
+.fa-brands.fa-instagram.fa-2x:hover{
+    color: rgb(190, 26, 26);
+}
+
+.fa-brands.fa-tiktok.fa-2x{
+    color: black;
+}
+.fa-brands.fa-tiktok.fa-2x:hover{
+    color:rgb(190, 26, 26);
+}
+
+#h41{
+    font-family: Dancing Script;
+    text-align: center;
+    color:black;
+    font-size: 1.5em;
+}
