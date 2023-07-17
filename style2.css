@@ -127,8 +127,8 @@ margin-top: -100px;
 
     #input2{
         font-size: 25px;
-        width: 320px;
-        margin-left: -10px;
+        width: 900%;
+        margin-left: -50%;
         text-align: left;
         background-color: transparent;
         color: white;
@@ -164,7 +164,9 @@ margin-top: -100px;
     .icons{
     
     display: inline-block;
-    margin-left: 60px;    
+    margin-left: 15%;    
+    margin-top: -100px;
+    margin-right: ;
     }
     
     .icons a{
