@@ -15,20 +15,23 @@
 
     .navbar ul{
         list-style-type: none;
-        background-color: black;
+        background-color: rgb(150, 145, 145);
         padding: 0px;
         margin: 0px;
         overflow: hidden;
-        width: 1200px;
+        width: 1200px;    
+        display: block; 
+        text-align: right;
     }
 
     .navbar a{
-        color: white;
+        color: rgb(0, 0, 0);
         text-decoration: none;
         padding: 15px;
         display: block;
-        text-align: center;
         font-size: 40px;
+        text-align: right;
+        margin-left: 50px;
     }
 
     .navbar a:hover{
@@ -44,10 +47,39 @@
     }
 
     .icons{
-        display: inline-block;
-        margin-left: 100px;
+       display: inline-block;
+       
     }
-    .fa-regular.fa-user.fa-5x{
+    .fa-regular.fa-user.fa-2x{
         color: white;
     }
+
+    .Tshirts{
+        text-align: center;
+        display:inline-block;
+        font-size: 50px;
+        border-width: 600px;
+        text-align: left;
+        margin-left: 260px;
+        background-color: rgb(70, 69, 69);
+    }
+
+    .WhiteT{
+        display:inline-block;
+    }
+
+    .BlackT{
+        display:inline-block;
+    }
+
+    #h21{
+        color: white;
+    }
+
+    #h31{
+        color:white;
+    }
+
+    
+
 }
