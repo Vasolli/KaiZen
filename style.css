@@ -10,7 +10,7 @@
     }
     
     #img{
-        margin-left: 100%;
+        margin-left: ;
     }
 
     .navbar ul{
@@ -19,7 +19,7 @@
         padding: 0px;
         margin: 0px;
         overflow: hidden;
-        width: 1200px;    
+        width: 235px;    
         display: block; 
         text-align: right;
     }
@@ -29,9 +29,10 @@
         text-decoration: none;
         padding: 15px;
         display: block;
-        font-size: 40px;
+        font-size: 20px;
         text-align: right;
-        margin-left: 50px;
+        margin-left: 5px;
+        text-align: center;
     }
 
     .navbar a:hover{
@@ -55,12 +56,10 @@
     }
 
     .Tshirts{
-        text-align: center;
         display:inline-block;
-        font-size: 50px;
-        border-width: 600px;
+        font-size: 5px;
         text-align: left;
-        margin-left: 260px;
+        margin-left: 5px;
         background-color: rgb(70, 69, 69);
     }
 
@@ -74,12 +73,23 @@
 
     #h21{
         color: white;
+        text-align: left;
     }
 
     #h31{
         color:white;
     }
 
+    #h11{
+        font-size: 10px;
+        display: inline-block;
+        margin-left: 30px;
+    }
+
+    #h31{
+        text-align: center;
+        font-size: px;
+    }
     
 
 }
