@@ -28,7 +28,8 @@
     .gallery{
         display: inline-block;
         margin: 3px;
-        margin-left: 29px;
+        margin-left: 20px;
+        margin-right: 20px;
         background-color: transparent;
         margin-top: -50px;
     }
