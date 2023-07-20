@@ -9,7 +9,7 @@
         background-size: cover;
     }
     
-    .fa-regular.fa-grip-lines-vertical{
+    .fa-solid.fa-grip-lines{
         margin-left: 95%;
     }
 
@@ -59,4 +59,16 @@
         color:white;
     }
 
+    .icons{
+        text-align: center;
+        
+    }
+
+    .icons a{
+        text-decoration: none;
+    }
+
+    .fa-brands.fa-instagram.fa-2x{
+        margin-right: 80px;
+    }
 }
