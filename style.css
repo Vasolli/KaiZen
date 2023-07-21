@@ -10,7 +10,17 @@
     }
     
     .fa-solid.fa-grip-lines{
-        margin-left: 95%;
+        margin-left: 2%;
+        margin-top: 5%;
+    }
+
+    #box1{
+        margin-right: 2%;
+        text-align: right;
+    }
+
+    .fa-solid.fa-cart-shopping{
+        margin-right: 20px;
     }
 
     .Drops{
@@ -28,8 +38,8 @@
     .gallery{
         display: inline-block;
         margin: 3px;
-        margin-left: 20px;
-        margin-right: 20px;
+        margin-left: 4%;
+        margin-right: 2%;
         background-color: transparent;
         margin-top: -50px;
     }
@@ -71,5 +81,27 @@
 
     .fa-brands.fa-instagram.fa-2x{
         margin-right: 80px;
+    }
+
+    #h13{
+        color:white;
+        text-align:center;
+        font-family:Dancing Script;
+    }
+
+    .gallery1{
+        text-align: center;
+    }
+
+    .description1{
+        color:white;
+    }
+
+    #h41{
+        float: right;
+        margin-right: 25%;
+        margin-top: -10%;
+        text-decoration: line-through;
+        color:rgb(187, 187, 187);
     }
 }
