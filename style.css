@@ -2,16 +2,38 @@
 {
     
     body{
-        background-image: url(Images/background4.jpg);
-        background-repeat: no-repeat;
-        background-position: center;
-        background-attachment: fixed;
-        background-size: cover;
+        background-color: rgba(227, 227, 227, 0.957);
+        margin: 0px;
+    }
+
+    .bar{
+        margin-left: 2px;
+        margin-top: 3%;
+    }
+
+    .bar:hover{
+        color: #92000a
+    }
+
+    .fa-solid.fa-magnifying-glass.fa-2x{
+        margin-left: 28%;
     }
     
-    .fa-solid.fa-grip-lines{
-        margin-left: 2%;
-        margin-top: 5%;
+    .fa-regular.fa-heart.fa-2x{
+        margin-left: 5%;
+    }
+
+    #img{
+        margin-left: 5%;
+    }
+
+    .fa-solid.fa-cart-shopping.fa-2x{
+        margin-left: 5%;
+        margin-right: 20px;
+    }
+
+    .fa-regular.fa-user.fa-2x{
+        
     }
 
     #box1{
@@ -19,26 +41,23 @@
         text-align: right;
     }
 
-    .fa-solid.fa-cart-shopping{
-        margin-right: 20px;
-    }
-
     .Drops{
         text-align: center;
         margin-top: 10px;
-        border-top: 1px solid white;
-        border-bottom: 1px solid white;
+        border-top: 1px solid rgb(0, 0, 0);
+        border-bottom: 1px solid rgb(0, 0, 0);
     }
 
     #h11{
         text-align: center;
         font-family: Dancing Script;
+        font-size: 3em;
     }
 
     .gallery{
+        background-color: rgb(203, 37, 37);
         display: inline-block;
-        margin: 3px;
-        margin-left: 4%;
+        margin-left: 6%;
         margin-right: 2%;
         background-color: transparent;
         margin-top: -50px;
@@ -46,13 +65,16 @@
 
     .gallery .description{
         text-align: center;
-        font-family: Dancing Script;
         margin-top: -40px;
-        color: white;
+        color: rgb(0, 0, 0);
+    }
+
+    #h22{
+        font-family: Dancing Script;
     }
 
     .gallery:hover{
-        background-color: rgb(190, 190, 190);
+        background-color: #c5c5c5
     }
 
     .gallery img{
@@ -61,13 +83,13 @@
     }
 
     #h12{
-        color:white;
+        color:rgb(0, 0, 0);
         text-align:center; 
         font-family: Dancing Script;
     }
 
     #h11{
-        color:white;
+        color:rgb(0, 0, 0);
     }
 
     .icons{
@@ -84,24 +106,42 @@
     }
 
     #h13{
-        color:white;
+        color:rgb(0, 0, 0);
         text-align:center;
         font-family:Dancing Script;
+        font-size: 3em;
     }
 
-    .gallery1{
+    .imagess{
+        background-color: #92000a;
         text-align: center;
     }
 
     .description1{
-        color:white;
+        color:rgb(0, 0, 0);
+        margin-top: 0px;
     }
 
+    #h32{
+        font-size: 2em;
+        margin-left: 5%;
+        font-family: dancing Script;
+    }
+
+    #h33{
+        margin-top: -20px;
+        margin-left: 5% ;
+        font-size: 1.6em;
+    }
+
+    #h21{
+        margin-left: 5%;
+    }
     #h41{
-        float: right;
-        margin-right: 25%;
+        float: left;
+        margin-left : 25%;
         margin-top: -10%;
         text-decoration: line-through;
-        color:rgb(187, 187, 187);
+        color:rgb(0, 0, 0);
     }
 }

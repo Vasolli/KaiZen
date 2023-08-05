@@ -1,9 +1,5 @@
-#body1{
-    background-image: url(Images/background2.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover;
+body{
+    background-color: rgba(69, 1, 1, 0.957);
 }
 
 #p1{
@@ -63,10 +59,8 @@
 }
 
 .icons{
-
 display: block;
 margin-left: 500px;
-
 }
 
 .icons a{
@@ -116,7 +110,6 @@ margin-left: 500px;
     }
     #p1{
         width: 100%
-        margin-left: -25%;
     }
 
     #h12{
@@ -168,7 +161,6 @@ margin-left: 500px;
     display: inline-block;
     margin-left: 15%;    
     margin-top: -100px;
-    margin-right: ;
     }
     
     .icons a{
