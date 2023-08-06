@@ -15,11 +15,11 @@
         color: #92000a
     }
 
-    .fa-solid.fa-magnifying-glass.fa-2x{
-        margin-left: 28%;
+    .fa-solid.fa-magnifying-glass.fa-1x{
+        margin-left: 40%;
     }
     
-    .fa-regular.fa-heart.fa-2x{
+    .fa-regular.fa-heart.fa-1x{
         margin-left: 5%;
     }
 
@@ -27,13 +27,9 @@
         margin-left: 5%;
     }
 
-    .fa-solid.fa-cart-shopping.fa-2x{
+    .fa-solid.fa-cart-shopping.fa-1x{
         margin-left: 5%;
         margin-right: 20px;
-    }
-
-    .fa-regular.fa-user.fa-2x{
-        
     }
 
     #box1{
@@ -52,20 +48,25 @@
         text-align: center;
         font-family: Dancing Script;
         font-size: 3em;
+        margin-bottom: -10px;
+    }
+
+    #img4{
+        display: block;
+        margin-left: 22%;
+        margin-bottom: -50px;
     }
 
     .gallery{
         background-color: rgb(203, 37, 37);
-        display: inline-block;
-        margin-left: 6%;
-        margin-right: 2%;
+        text-align: center;
         background-color: transparent;
-        margin-top: -50px;
+        margin-top: -100px;
     }
 
     .gallery .description{
         text-align: center;
-        margin-top: -40px;
+        margin-top: -140px;
         color: rgb(0, 0, 0);
     }
 
@@ -73,13 +74,9 @@
         font-family: Dancing Script;
     }
 
-    .gallery:hover{
-        background-color: #c5c5c5
-    }
-
     .gallery img{
         width:150px;
-
+        margin-bottom: 50px;
     }
 
     #h12{
@@ -90,6 +87,15 @@
 
     #h11{
         color:rgb(0, 0, 0);
+    }
+
+    #img3{
+        width:250px;
+        text-align: center;
+    }
+
+    #img3:hover{
+        background-color: rgb(182, 182, 182);
     }
 
     .icons{
