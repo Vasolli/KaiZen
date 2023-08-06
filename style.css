@@ -53,20 +53,21 @@
 
     #img4{
         display: block;
-        margin-left: 22%;
-        margin-bottom: -50px;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: -60px;
     }
 
     .gallery{
         background-color: rgb(203, 37, 37);
         text-align: center;
         background-color: transparent;
-        margin-top: -100px;
+        margin-top: -80px;
     }
 
     .gallery .description{
         text-align: center;
-        margin-top: -140px;
+        margin-top: -160px;
         color: rgb(0, 0, 0);
     }
 
@@ -92,10 +93,6 @@
     #img3{
         width:250px;
         text-align: center;
-    }
-
-    #img3:hover{
-        background-color: rgb(182, 182, 182);
     }
 
     .icons{
