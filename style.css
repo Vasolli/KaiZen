@@ -2,7 +2,7 @@
 {
     
     body{
-        background-color: rgba(227, 227, 227, 0.957);
+        background-color: rgba(255, 255, 255, 0.957);
         margin: 0px;
     }
 
@@ -55,14 +55,15 @@
         display: block;
         margin-right: auto;
         margin-left: auto;
-        margin-bottom: -60px;
+        margin-bottom: -100px;
+        margin-top: -40px;
     }
 
     .gallery{
         background-color: rgb(128, 126, 126);
         text-align: center;
         background-color: transparent;
-        margin-top: -80px;
+        margin-top: 0px;
     }
 
     .gallery .description{
@@ -111,43 +112,45 @@
     .imagess{
         background-color: #a7a7a7;
         text-align: center;
+        margin-top: 20px;
     }
 
     .description1{
         color:rgb(0, 0, 0);
         margin-top: -35px;
-        background-color: #cacaca;
+        background-color: #ffffff;
+    }
+
+    #h51{
+        margin-top: 2%;
+        margin-left: 3%;
+        font-family: Crimson Text;
+        margin-bottom: -25px;
     }
 
     #h32{
         font-size: 2em;
-        margin-left: 5%;
-        font-family: dancing Script;
+        margin-left: 3%;
+        font-family: Cormorant Garamond;
     }
 
     #h33{
         margin-top: -20px;
-        margin-left: 5% ;
+        margin-left: 3% ;
         font-size: 1.6em;
     }
 
     #h21{
         color: #92000a;
-        margin-left: 5%;
+        margin-left: 3%;
         margin-top: -10px;
         margin-bottom: 20px;
-    }
-    #h41{
-        float: left;
-        margin-left : 25%;
-        margin-top: -10%;
-        text-decoration: line-through;
-        color:rgb(0, 0, 0);
     }
 
     .dropdown{
         display:inline-block;
     }
+
     #size{
         font-size: 20px;
         width:80px;
@@ -155,26 +158,37 @@
         background-color: rgb(66, 66, 66);
         color:white;
         padding: 10px 15px;
-        margin-left: 25%;
+        margin-left: 15%;
     }
 
     .dropdown a{
         display:block;
-        color:white;
+        color:#92000a;
         text-decoration: none;
         padding:10px 15px;
     }
 
     .dropdown .content{
-        display:none;
-        margin-left: 5%;
-        background-color: rgb(119, 119, 119);
+        display: none;
+        margin-left: 3%;
+        background-color: rgb(255, 255, 255);
         text-align: center;
         position:absolute;
         min-width:80px;
+        box-shadow: 3px 3px 5px;
+        border-style: solid;
     }
 
     .dropdown:hover .content{
         display:block;
+    }
+
+    #buy{
+        text-align: center;
+        width: 350px;
+        height: 40px;
+        border-style: solid;
+        background-color: transparent;
+        margin-left: 5%;
     }
 }
