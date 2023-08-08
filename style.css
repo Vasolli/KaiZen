@@ -183,10 +183,10 @@
 
     #buy{
         text-align: center;
+        margin-left: 3%;
         width: 350px;
         height: 40px;
         border-style: solid;
         background-color: transparent;
-        margin-left: 5%;
     }
 }
