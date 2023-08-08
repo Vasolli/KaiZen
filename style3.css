@@ -1,126 +1,64 @@
-.Clothes{
-    display: inline-block;
-    margin-left: 12%;
-}
+@media screen and (max-width: 600px) 
+{
+    body{background-image: url(Images/KZ\ fp.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        background-size:cover;
+    }
 
-.explain{
-    float: right;
-    text-align: left;
-    margin-right: 10%;
-}
+    .button{
+        display: inline-block;
+        margin-left:  10%;
+        margin-top: 110%;
+    }
+    #button{
+        font-size: 25px;
+        width: 300px;
+        padding: 10px 15px;
+        background-color: transparent;
+        color: black;
+        border-style: solid;
+    }
 
-#img1 {
-    margin-left: -12%; 
-    margin-right: 80px;
-    border-radius: 1px solid;
-} 
+    #button:hover{
+        background-color: #92000a;
+        color: white;
+    }
 
+    .button2{
+        display: inline-block;
+        margin-left:  10%;
+        margin-top: 5%;
+    }
+    #button2{
+        font-size: 25px;
+        width: 300px;
+        padding: 10px 15px;
+        background-color: transparent;
+        color: black;
+        border-style: solid;
+    }
 
-header {
-    background-color: white;
-}
+    #button2:hover{
+        background-color: #92000a;
+        color: white;
+    }
 
-.topnav {
-    overflow: hidden;
-    background-color: rgb(255, 255, 255);
-    text-align: center;
-    display: inline-block;
-}
+    .icons{
+        text-align: center;
+        margin-top: 240px;
+    }
 
-.topnav a {
-    float: left;
-    display: block;
-    color: rgb(0, 0, 0);
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-}
+    .icons a{
+        text-decoration: none;
+    }
 
-.topnav a:hover {
-    background-color: #b80b17;
-    color: rgb(255, 255, 255);
-}
+    .icons:hover{
+        color: #92000a;
+    }
 
-.topnav a.active {
-    background-color: #b80b17;
-    color: white;
-}
-
-.topnav input[type=text] {
-    padding: 6px;
-    border: 1px solid;
-    width: 500px;
-    margin-top: 8px;
-    margin-left: 50px;
-    font-size: 17px;
-    display: inline-block;
-}
-
-#img {
-    margin-left: 43%;
-} 
-
-.color{
-    font-size: 20px;
-    background-color: black;
-    color: white;
-}
-
-.size{
-    font-size: 20px;
-    background-color: black;
-    color:white; 
-    margin-right: 20px;
-}
-
-main{
-    background-color: white;
-}
-
-p{
-    color:black;
-}
-
-h3{
-    color: black;
-}
-
-.MultipleC{
-    width:50px;
-    display: inline-block;
-}
-
-#img2{
-    margin-left: 50px;
-    margin-bottom: 400px;
-}
-
-.button{
-    font-size: 1em;
-    margin-right: 15px;
-    background-color: white;
-    color: black;
-    height: 35px;
-    width: 35px;
-}
-
-.button:hover{
-    font-size: 1.2em;
-    box-shadow: 5px 5px 3px;
-    background-color: #b80b17;
-    color: white;
-}
-
-.button:active{
-    background-color: #b80b17;
-}
-
-#h11{
-    font-family: Dancing Script;
-    text-decoration: dotted;
-}
-
-#h21{
-    text-decoration: underline;
+    .fa-brands.fa-instagram.fa-2x{
+        margin-right: 25%;
+    }
 }

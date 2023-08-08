@@ -2,8 +2,7 @@
 {
     
     body{
-        background-color: rgba(255, 255, 255, 0.957);
-        margin: 0px;
+        background-color: white;
     }
 
     .bar{
@@ -73,7 +72,7 @@
     }
 
     #h22{
-        font-family: Dancing Script;
+        font-family: Cormorant Garamond;
     }
 
     .gallery img{
@@ -124,7 +123,7 @@
     #h51{
         margin-top: 2%;
         margin-left: 3%;
-        font-family: Crimson Text;
+        font-family: Crimson Text; 
         margin-bottom: -25px;
     }
 
@@ -154,9 +153,9 @@
     #size{
         font-size: 20px;
         width:80px;
-        border: none;
-        background-color: rgb(66, 66, 66);
-        color:white;
+        border-style: solid;
+        background-color: transparent;
+        color:rgb(0, 0, 0);
         padding: 10px 15px;
         margin-left: 15%;
     }
@@ -174,8 +173,7 @@
         background-color: rgb(255, 255, 255);
         text-align: center;
         position:absolute;
-        min-width:80px;
-        box-shadow: 3px 3px 5px;
+        min-width: 76px;
         border-style: solid;
     }
 

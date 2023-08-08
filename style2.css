@@ -2,13 +2,6 @@ body{
     background-color: #ffffff;
 }
 
-#p1{
-    text-align: center;
-    color: white;
-    font-family: Dancing Script;
-    font-size: 1.3em;
-}
-
 .h1{
     text-align: center;
     font-size: 3em;
@@ -22,11 +15,10 @@ body{
     margin-left: 320px;
     text-align: left;
     background-color: transparent;
-    color: white;
+    color: #92000a;
     padding: 10px 5px;
-    box-shadow: 3px 3px 3px;
-    border-radius: 15px;
-    border-color: white;
+    box-shadow: 3px 3px 3px black;
+    border-color: rgb(0, 0, 0);
 }
 
 
@@ -42,7 +34,6 @@ body{
     margin-left: 57%;
     font-size: 20px;
     padding: 10px;
-    border-radius: 25px;
     color: white;
     background-color: transparent;
     border-color: white;
@@ -112,13 +103,8 @@ margin-left: 500px;
         width: 100%;
         text-align: center;
         font-size: 2em;
-        font-family: Dancing Script;
+        font-family: Dai Banasil;
         color: rgb(0, 0, 0);
-    }
-    #p1{
-        width: 100%;
-        color: rgb(0, 0, 0);
-        font-family:Dancing Script;
     }
 
     #input2{
@@ -129,21 +115,21 @@ margin-left: 500px;
         background-color: transparent;
         color: #92000a;
         padding: 10px 5px;
-        box-shadow: 3px 3px 3px #92000a;
-        border-color: #92000a;
+        box-shadow: 3px 3px 3px #000000;
+        border-color: #000000;
     }
-    
+
     #input1{
-        margin-left: 0px;
+        display: inline-block;
+        margin-left: 250%;
         font-size: 20px;
-        padding: 10px;
-        border-radius: px;
+        padding: 15px;
         color: rgb(0, 0, 0);
         background-color: transparent;
         border-color: rgb(0, 0, 0);
     }
 
-    #first{
+    #name{
         color:black;
     }
     
@@ -156,9 +142,7 @@ margin-left: 500px;
     
     .icons{
     
-    display: inline-block;
     margin-left: 15%;    
-    margin-top: -100px;
     }
     
     .icons a{
