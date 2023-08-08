@@ -1,7 +1,9 @@
-body{
-    background-color: #ffffff;
+body{background-image: url(Images/KZfp1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size:cover;
 }
-
 .h1{
     text-align: center;
     font-size: 3em;
@@ -51,7 +53,6 @@ body{
 
 .icons{
 display: block;
-margin-left: 500px;
 }
 
 .icons a{
@@ -60,7 +61,6 @@ margin-left: 500px;
 
 .fa-brands.fa-instagram.fa-2x{
     color: rgb(0, 0, 0);
-    margin-right: 200px;
 }
 .fa-brands.fa-instagram.fa-2x:hover{
     color: #92000a;
@@ -75,7 +75,7 @@ margin-left: 500px;
 
 #h41{
     color: rgb(0, 0, 0);
-    text-decoration: underline;
+    text-decoration: none;
     text-align: center;
     margin-bottom: 200px;
 }
@@ -141,8 +141,9 @@ margin-left: 500px;
     }
     
     .icons{
-    
-    margin-left: 15%;    
+    margin-top: 120px;
+    margin-left: 15%; 
+    margin-left: 50%;
     }
     
     .icons a{
@@ -158,6 +159,7 @@ margin-left: 500px;
     
     .fa-brands.fa-tiktok.fa-2x{
         color: #000000;
+        margin-left: 35%;
     }
     .fa-brands.fa-tiktok.fa-2x:hover{
         color:#92000a;
@@ -165,8 +167,9 @@ margin-left: 500px;
     
     #h41{
         color: #000000;
-        text-decoration: underline;
+        text-decoration: none;
         text-align: center;
+
     }
     #h41:hover{
         color:#92000a;
